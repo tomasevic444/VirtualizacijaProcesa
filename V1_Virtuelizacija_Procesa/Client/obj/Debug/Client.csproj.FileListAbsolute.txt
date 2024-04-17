@@ -1,0 +1,10 @@
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\bin\Debug\Client.exe.config
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\bin\Debug\Client.exe
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\bin\Debug\Client.pdb
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\bin\Debug\Common.dll
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\bin\Debug\Common.pdb
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.exe
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.pdb
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Client\obj\Debug\Client.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Common\bin\Debug\Common.dll
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Common\bin\Debug\Common.pdb
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.dll
+C:\Users\Tomas\Desktop\VirtualizacijaK1\V1_Virtuelizacija_Procesa\Common\obj\Debug\Common.pdb

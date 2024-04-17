@@ -1,0 +1,6 @@
+C:\Users\acile\Desktop\virteliuzacija\0vezbanje\7grupa\7Grupa\Common\bin\Debug\Common.dll
+C:\Users\acile\Desktop\virteliuzacija\0vezbanje\7grupa\7Grupa\Common\bin\Debug\Common.pdb
+C:\Users\acile\Desktop\virteliuzacija\0vezbanje\7grupa\7Grupa\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\acile\Desktop\virteliuzacija\0vezbanje\7grupa\7Grupa\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\acile\Desktop\virteliuzacija\0vezbanje\7grupa\7Grupa\Common\obj\Debug\Common.dll
+C:\Users\acile\Desktop\virteliuzacija\0vezbanje\7grupa\7Grupa\Common\obj\Debug\Common.pdb
